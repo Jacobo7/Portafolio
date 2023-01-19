@@ -1,0 +1,13 @@
+@import 'normalize.css';
+@import './contact.css';
+@import './experience.css';
+@import './flotantes.css';
+@import './fonts.css';
+@import './header.css';
+@import './main.css';
+@import './nav.css';
+@import './portafolio.css';
+@import './sections.css';
+@import './skillsets.css';
+@import './utils.css';
+@import '/node_modules/normalize.css/normalize.css';
